@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Gesture_app</string>
+    <string-array name="gestures">
+
+
+        <item>gift</item>
+        <item>car</item>
+        <item>pay</item>
+        <item>pet</item>
+        <item>sell</item>
+        <item>explain</item>
+        <item>that</item>
+        <item>book</item>
+        <item>now</item>
+        <item>work</item>
+        <item>total</item>
+        <item>trip</item>
+        <item>future</item>
+        <item>good</item>
+        <item>thank you</item>
+        <item>learn</item>
+        <item>agent</item>
+        <item>should</item>
+        <item>like</item>
+        <item>movie</item>
+
+    </string-array>
+</resources>
